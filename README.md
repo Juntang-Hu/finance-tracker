@@ -22,6 +22,10 @@
 * 篩選：選擇年月份，點擊篩選找出目標資料
 * 尋找：依描述 / 類別關鍵字即時搜尋
 
+##  demo影片連結
+https://drive.google.com/file/d/1IlJ50m7mVl6brQhheMjcSs877S-6XJXL/view?usp=sharing
+
+
 ##  畫面預覽 (Screenshots)
 <img width="1384" height="950" alt="image" src="https://github.com/user-attachments/assets/a2c94dbd-1faf-41ca-8916-6323ba12d61d" />
 <img width="591" height="535" alt="image" src="https://github.com/user-attachments/assets/dca4c8b4-1c63-4615-8fd7-f439d0d07186" />
