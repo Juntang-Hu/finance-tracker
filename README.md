@@ -19,6 +19,8 @@
 * 背景：可以選擇單色，或使用漸層背景
 * 音樂：開啟音檔當作BGM，或是繼續 / 暫停音樂
 * 說明：開啟關於頁面
+* 篩選：選擇年月份，點擊篩選找出目標資料
+* 尋找：依描述 / 類別關鍵字即時搜尋
 
 ##  畫面預覽 (Screenshots)
 <img width="1384" height="950" alt="image" src="https://github.com/user-attachments/assets/a2c94dbd-1faf-41ca-8916-6323ba12d61d" />
